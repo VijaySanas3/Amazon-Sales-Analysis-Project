@@ -1,5 +1,7 @@
 # Amazon Sales Analysis Project
 
+![Project Banner](ProjectBanner.png)
+
 Analyzing Amazon Sales data from 2010 to 2017 using Excel and Power BI. This Project includes ETL Processes, Data Modeling, and Insights into Product and Regional Sales Trends.
 
 ## Table of Contents
